@@ -1,0 +1,15 @@
+{
+"name":             "ytulip/tulip",
+"description":      "lost in the world",
+"keywords":         ["silk", "online shop", "good"],
+"homepage":         "http://www.ytulip.net",
+"time":             "2015-4-16",
+"license":          "MIT",
+"authors": [
+    {
+        "name":         "zhu yan",
+        "email":        "18681332356@163.com",
+        "homepage":     "http://www.ytulip.net",
+        "role":         "creater"
+    }
+]}
